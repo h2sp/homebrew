@@ -7,7 +7,7 @@ install brew-cask
 
 ## R
 tap homebrew/science
-install efortran
+install gfortran
 cask install xquartz
 brew install R
 cask install rstudio
