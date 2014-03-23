@@ -28,6 +28,7 @@ install pyenv
 install binutils
 install coreutils
 install findutils
+install fontforge
 
 ## cask
 cask install alfred
