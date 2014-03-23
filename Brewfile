@@ -20,6 +20,10 @@ install git
 install w3m
 install wget
 install xz
+install rbenv
+install ruby-build
+install rbenv-gemset
+install rbenv-gem-rehash
 
 ## cask
 cask install alfred
