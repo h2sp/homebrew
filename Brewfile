@@ -5,9 +5,16 @@ upgrade
 tap phinze/homebrew-cask || true
 install brew-cask
 
+## R
+tap homebrew/science
+install efortran
+cask install xquartz
+brew install R
+cask install rstudio
+
+
 ## brew
 install zsh
-link zsh
 install vim
 install git
 install r
@@ -31,5 +38,4 @@ cask install marked
 cask install dropbox
 cask install skydrive
 cask install skype
-cask install rstudio
 
