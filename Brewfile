@@ -24,6 +24,7 @@ install rbenv
 install ruby-build
 install rbenv-gemset
 install rbenv-gem-rehash
+install pyenv
 
 ## cask
 cask install alfred
