@@ -9,7 +9,7 @@ install brew-cask
 tap homebrew/science
 install gfortran
 cask install xquartz
-brew install R
+install R
 cask install rstudio
 
 
@@ -17,7 +17,6 @@ cask install rstudio
 install zsh
 install vim
 install git
-install r
 install w3m
 install wget
 install xz
