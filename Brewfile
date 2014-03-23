@@ -12,6 +12,10 @@ cask install xquartz
 install R
 cask install rstudio
 
+## docker
+cask install virtualbox
+install boot2docker
+install docker
 
 ## brew
 install zsh
@@ -37,7 +41,6 @@ cask install firefox
 cask install google-japanese-ime
 cask install keyremap4macbook
 cask install mplayerx
-cask install virtualbox
 cask install yorufukurou
 cask install appcleaner
 cask install android-file-transfer
