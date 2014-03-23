@@ -25,6 +25,9 @@ install ruby-build
 install rbenv-gemset
 install rbenv-gem-rehash
 install pyenv
+install binutils
+install coreutils
+install findutils
 
 ## cask
 cask install alfred
