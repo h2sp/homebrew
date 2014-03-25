@@ -49,4 +49,6 @@ cask install marked
 cask install dropbox
 cask install skydrive
 cask install skype
-
+cask install tunnelblick
+cask install limechat
+cask install keepassx
