@@ -53,4 +53,3 @@ cask install tunnelblick
 cask install limechat
 cask install keepassx
 cask install remote-desktop-connection
-cask install mucommander
