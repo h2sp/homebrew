@@ -14,6 +14,7 @@ cask install rstudio
 
 ## docker
 cask install virtualbox
+install go
 install boot2docker
 install docker
 
@@ -45,7 +46,6 @@ cask install yorufukurou
 cask install appcleaner
 cask install android-file-transfer
 cask install cheatsheet
-cask install marked
 cask install dropbox
 cask install skydrive
 cask install skype
