@@ -34,6 +34,7 @@ install binutils
 install coreutils
 install findutils
 install fontforge
+install tig
 
 ## cask
 cask install alfred
