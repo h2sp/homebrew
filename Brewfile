@@ -5,6 +5,9 @@ upgrade
 tap phinze/homebrew-cask || true
 install brew-cask
 
+# pandoc用formula
+pull https://github.com/Homebrew/homebrew/pull/21684
+
 ## R
 tap homebrew/science
 install gfortran
@@ -35,6 +38,7 @@ install coreutils
 install findutils
 install fontforge
 install tig
+install pandoc
 
 ## cask
 cask install alfred
