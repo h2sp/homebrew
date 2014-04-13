@@ -6,7 +6,7 @@ tap phinze/homebrew-cask || true
 install brew-cask
 
 # pandoc用formula
-pull https://github.com/Homebrew/homebrew/pull/21684
+#pull https://github.com/Homebrew/homebrew/pull/21684
 
 ## R
 tap homebrew/science
@@ -58,3 +58,5 @@ cask install tunnelblick
 cask install limechat
 cask install keepassx
 cask install remote-desktop-connection
+cask install dash
+cask install sourcetree
