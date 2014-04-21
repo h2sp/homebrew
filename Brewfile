@@ -60,3 +60,4 @@ cask install keepassx
 cask install remote-desktop-connection
 cask install dash
 cask install sourcetree
+cask install vagrant
