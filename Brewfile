@@ -18,9 +18,8 @@ cask install rstudio
 
 ## docker
 cask install virtualbox
+cask install boot2docker
 install go
-install boot2docker
-install docker
 
 ## brew
 install zsh
